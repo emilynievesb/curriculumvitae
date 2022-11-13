@@ -1,0 +1,26 @@
+#img {
+  max-width: 7rem;
+}
+.ui-block-a {
+  padding: 1rem;
+}
+.ui-block-b {
+  padding: 1rem 0;
+}
+h2 {
+  background-color: antiquewhite;
+}
+#img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  top: 35px;
+  right: 285px;
+}
